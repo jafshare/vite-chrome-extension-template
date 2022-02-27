@@ -1,6 +1,6 @@
 // 导入全局样式
 import "~/assets/styles/index.less";
-import "./App.css";
+import "./App.less";
 import { useState, useMemo } from "react";
 import SearchPanel from "./components/SearchPanel";
 function App() {
